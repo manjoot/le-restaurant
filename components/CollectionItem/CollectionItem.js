@@ -41,7 +41,7 @@ const CollectionItem = ({ item }) => {
 			/>
 			<div className="w-full flex flex-col justify-between mt-4">
 				<span className="text-left">
-					<Link href={`/shop/${collection}/${item._id}`}>
+					<Link href={`/menu/${collection}/${item._id}`}>
 						<a className="py-1 text-left hover:underline">{item.name}</a>
 					</Link>
 				</span>
