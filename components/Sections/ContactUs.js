@@ -1,6 +1,4 @@
 import React from "react"
-import Link from 'next/Link'
-
 export default function ContactUs() {
   return (
           <div class="bg-white dark:bg-gray-800 overflow-hidden relative lg:flex lg:items-center rounded-lg">
