@@ -8,7 +8,7 @@ You will need [Node.js](https://nodejs.org/) version 8.0 or greater installed on
 
 ## Setup
 
-Firstly  begin by unzipping the 'le-restaurant' folder within the project folder - this is the applicaiton itself.
+Firstly  begin by unzipping the 'le-restaurant' folder within the project folder - this is the application itself.
 
 Once unzipped, open the terminal in the 'le-restaurant' directory, and install all the required dependencies using:
 
