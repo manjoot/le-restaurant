@@ -31,9 +31,6 @@ The app should now be up and running at [http://localhost:3000](http://localhost
 ### People
 
 - Manjoot (me)
-- My coaches (for their continued help an support in my development as a developer (no pun intended)):
-  - Richard Ng
-  - Daniel Miller
 
 ### Used Dependencies
 
