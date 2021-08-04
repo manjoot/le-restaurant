@@ -1,6 +1,6 @@
 # Le Restaurant - Manjoot Narwal
 
-This is my synoptic project for end pojnt assessment of my apprenticeship, a restaurant application built using [Next.js](https://nextjs.org/), and bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is my full stack synoptic project that was submitted for end pont assessment of my apprenticeship. A restaurant application built using [Next.js](https://nextjs.org/), and bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 This app has been **successfully deployed** using **Vercel**, the link is: **https://le-restaurant-deployed.vercel.app/**
 
